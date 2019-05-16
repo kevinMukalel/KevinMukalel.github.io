@@ -205,8 +205,8 @@
  .personalshot 
  {
     background-image: url(../img/backgrounds/personalshot.jpg);  
-    height: 100%;
-    padding-bottom: 50%;
+    height: 70%;
+    padding-bottom: 49%;
     padding-top: 0%; 
 } 
 
