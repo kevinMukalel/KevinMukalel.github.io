@@ -4078,10 +4078,13 @@ ul {
         overflow-x: hidden;
         overflow-y: hidden;  
         overflow:scroll;
-        overflow-x:hidden;
     } 
     .bg-half-content.faq-accordian {
         padding: 50px;
+    }
+    .bg-right-container {
+        height: 715px;
+        overflow: scroll;
     }
 }
 @media (max-width:992px) { 
@@ -4106,6 +4109,10 @@ ul {
     }
     .bg-half-content .section-heading {
         padding-top: 40px!important; 
+    }
+    .bg-right-container {
+        height: 500px;
+        overflow: scroll;
     }
 }
 .about-me-heading {
